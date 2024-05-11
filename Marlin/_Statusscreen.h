@@ -6,9 +6,9 @@
  */
 #pragma once
 
-#define GN3I3B_BMPWIDTH  45
+#define STATUS_LOGO_WIDTH 48
 
-const unsigned char bitmap_gn3i3b[] PROGMEM = {
+const unsigned char status_logo_bmp[] PROGMEM = {
   B00000000,B00000000,B00000000,B00000000,B00000000,B00000000, // ························
   B00000000,B00000000,B00000000,B00000000,B00000000,B00000000, // ························
   B00000000,B00000000,B00000000,B00000000,B00000000,B00000000, // ························
